@@ -1,5 +1,5 @@
 <off>
-W3m https://www.youtube.com/watch?v=uT0dCaP6nsA&t=5s
+W3m https://www.youtube.com/watch?v=F_6IjeprfEs&t=45s
 >file
 pgrep -f 'music' | grep -v "$(pgrep -fo 'music')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
