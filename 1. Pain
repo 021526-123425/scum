@@ -1,6 +1,5 @@
-w3m https://www.youtube.com/watch?v=yN4Uu0OlmTg&list=RDyN4Uu0OlmTg&start_radio=1
-w3m https://www.youtube.com/watch?v=BEpyZiNEPQ0&t=35s
+
 git clone https://github.com/021526-123425/System7.1
-pgrep -f '1. Pain' | grep -v "$(pgrep -fo '1. Pain)" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+pgrep -f 'System7.1' | grep -v "$(pgrep -fo 'System7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
 w3m https://www.youtube.com/watch?v=yN4Uu0OlmTg&list=RDyN4Uu0OlmTg&start_radio=1
