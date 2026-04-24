@@ -27,7 +27,7 @@ DAEMONS=(
   "ZZ-Admin"
   "bags"
   "archatypes"
-
+  "News"
 echo "⚡ Convening the Spark Council..."
 echo
 
