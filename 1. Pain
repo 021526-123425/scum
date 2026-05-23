@@ -1,3 +1,5 @@
-<on>
-sudo get upgrade
+If you are looking to watch something..
+  Watch this doco about robots 
+W3m https://www.bilibili.tv/en/video/2046660964
+pgrep -f '1.Pain' | grep -v "$(pgrep -fo '1.Pain')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
