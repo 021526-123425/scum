@@ -1,8 +1,1 @@
-Hello Denizens of the universe! 
- .. Although it is important to stay up to date with universal events. To often we just tune it out and put on some hip-hope. Well today your in for a treat! 
 
-World, I give you "The Rap News"
-
-w3m https://youtube.com/playlist?list=PL74DF342B06C8102E&si=-brFODLwaY1ugVVv
-
-pgrep -f 'Endermanch3' | grep -v "$(pgrep -fo 'Endermanch3')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
