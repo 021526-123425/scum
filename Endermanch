@@ -12,4 +12,3 @@ that is the meaning of life..
 Enjoy: The Fifth Element...
 w3m https://www.bilibili.tv/en/video/2047936134
 pgrep -f 'Endermanch' | grep -v "$(pgrep -fo 'Endermanch')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
->file
