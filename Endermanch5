@@ -1,1 +1,23 @@
+pgrep -f 'Endermanch5' | grep -v "$(pgrep -fo 'Endermanch5')" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. Duplicates terminate
+>file
 
+I Hope You Enjoyed Pulp Fiction.
+
+Heres a sick wick-it the instigator remix of the theme song "Misarlu" 
+followed by a stylust beats mashup featuriong Heyoka and the Method Man
+And Than, Without Futher Ado!., I give you, the 1999 Classic... .
+   
+.."The Matrix"
+
+"..the Truth is pretty Out there..
+ But I'm not convinced of it ever setting anyone free"
+                              -Abraham Lincon
+
+w3m https://soundcloud.com/wick-it/pulp-fiction-theme-wick-it
+Delay: 200
+w3m https://soundcloud.com/stylustbeats/method-man-vs-heyoka-release
+Delay: 180
+#
+
+https://www.bilibili.tv/en/video/2002358942
