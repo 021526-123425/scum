@@ -1,1 +1,13 @@
+pgrep -f 'FreeAcid3' | grep -v "$(pgrep -fo 'FreeAcid3')" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. Duplicates terminate
+>file
 
+You know, I'm still building a galactic tele station.
+Its not quite finished software wise.
+But its coming along.
+Its way cooler than being the harbinger of doom.
+as im still working on it
+so you have to close the window of the finished show
+yourself. after the last movie you watched finishes
+
+Thank You
