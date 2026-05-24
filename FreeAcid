@@ -1,3 +1,6 @@
+pgrep -f 'FreeAcid' | grep -v "$(pgrep -fo 'FreeAcid')" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. Duplicates terminate
+>file
 sudo apt-get update
 sudo apt-get install alsa-utils
 Delay: 14
