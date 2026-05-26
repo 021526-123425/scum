@@ -1,14 +1,1 @@
-.."The path of the rightios man is beset on all sides by the inequitys of evil men..
-,.. "Ands I will strike thee down with great vengence and furious anger.."
-..Those who attempt to poisen and destroy my brothers..
-"And you will know my name is the Lord.,"
-.."When I strike the Down upon thee
-    "Arrgghh!..   Bang Bang Bang Bang!
-
-enjoy Pulp fiction..
-
-w3m https://ok.ru/video/7061358971461
-
-pgrep -f 'Endermanch4' | grep -v "$(pgrep -fo 'Endermanch4')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
->file
 
