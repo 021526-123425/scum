@@ -1,5 +1,0 @@
-pgrep -f 'music' | grep -v "$(pgrep -fo 'music')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-528 hz
-w3m https://www.youtube.com/watch?v=F9Xni1yL-b8
-desert dwellers
-w3m https://www.youtube.com/watch?v=DZpYocib8QI&list=RDDZpYocib8QI&start_radio=1
