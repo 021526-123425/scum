@@ -10,7 +10,7 @@ def ritual_scan(mount_path="/mnt/sda7.1"):
             "glyph": "🦇"
         },
         "jellybean": {
-            "description": "Jellybaby archetype detected (single cell organism).",
+            "description": "Jellybaby archetype detected.",
             "sound": "hum.wav",
             "glyph": "🍬"
         },
