@@ -1,3 +1,0 @@
-pgrep -f 'video' | grep -v "$(pgrep -fo 'video')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-w3m https://www.youtube.com/watch?v=iwu7pSLyMBg&t=1s
-
