@@ -30,6 +30,11 @@ DAEMONS=(
   "News"
   "Video" 
   "FreeAcid" 
+  "Endermanch" 
+  "Endermanch1" 
+  "Endermanch2" 
+  "Endermanch3" 
+  "Endermanch4" 
 echo "⚡ Convening the Spark Council..."
 echo
 
