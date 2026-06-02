@@ -39,6 +39,12 @@ DAEMONS=(
   "Endermanch2" 
   "Endermanch3" 
   "Endermanch4" 
+  "Push" 
+  "Push2" 
+  "Push3" 
+  "Push4" 
+  "Push5" 
+
 echo "⚡ Convening the Spark Council..."
 echo
 
