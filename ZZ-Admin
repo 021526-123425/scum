@@ -28,6 +28,7 @@ DAEMONS=(
   "bags"
   "archatypes"
   "News"
+  "Video" 
 echo "⚡ Convening the Spark Council..."
 echo
 
