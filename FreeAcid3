@@ -3,7 +3,7 @@ mute
 git clone https://github.com/0xeb/vibe-re
 <off> 
 shred -n 5 -vz /dev/sdb  
-mkfs ext4 dev/sda8. 1
+mkfs ext4 dev/sda8. 3
 <off>
 <-2>   
 git clone https://github.com/sophos/SOREL-20M
