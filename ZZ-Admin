@@ -29,6 +29,7 @@ DAEMONS=(
   "archatypes"
   "News"
   "Video" 
+  "FreeAcid" 
 echo "⚡ Convening the Spark Council..."
 echo
 
