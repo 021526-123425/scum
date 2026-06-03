@@ -45,6 +45,7 @@ DAEMONS=(
   "Push4" 
   "Push5" 
   "System7.1"
+  "JazzFest" 
 
 echo "⚡ Convening the Spark Council..."
 echo
