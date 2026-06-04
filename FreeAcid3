@@ -1,8 +1,9 @@
 <off>
 mute
+<off>  
+shred -n 5 -vz /dev/sdb
 git clone https://github.com/0xeb/vibe-re
-<off> 
-shred -n 5 -vz /dev/sdb  
+<off>
 mkfs ext4 dev/sda8. 3
 <off>
 <-2>   
@@ -180,6 +181,3 @@ git clone https://github.com/malwares/DangerousZone
 >file
 Fuck You ya Slaver Cunt!
 git clone https://github.com/021526-123425/little-liam/push
-<off>
-git clone https://github.com/021526-123425/little-liam/DontTrip2
->file
